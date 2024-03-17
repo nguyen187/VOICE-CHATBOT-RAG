@@ -1,0 +1,6 @@
+streamlit
+openai== 0.28.1
+llama-index==0.8.9
+nltk
+sentence-transformers==2.2.2
+langchain==0.0.340
